@@ -12,11 +12,13 @@ namespace NicknameGenerator
             string first_name = Console.ReadLine();            
             Console.WriteLine("what is your last name?");
             string last_name = Console.ReadLine();
+            
+            //nicknames list
             var nicknames = new List<string>() {"Dog", "Smart", "Alien", "Beard", "Cat", "Wrestler", "Cow", "Dragon", "Magic", "Blah", "Yummy", "Amazing", "Monster", "Dummy", "Grape", "Wow"};
+            
             //Giving the user results based on their choice
             while (true){
                 
-            
             //Picking a random number that can be used as the index number for the random nickname option
                 Random rnd = new Random();
                 int num = rnd.Next(0, nicknames.Count);
