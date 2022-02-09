@@ -1,0 +1,16 @@
+\\fs-059\studuser$\Gr12\k.patel61\NicknameGenerator\bin\Debug\net5.0\NicknameGenerator.exe
+\\fs-059\studuser$\Gr12\k.patel61\NicknameGenerator\bin\Debug\net5.0\NicknameGenerator.deps.json
+\\fs-059\studuser$\Gr12\k.patel61\NicknameGenerator\bin\Debug\net5.0\NicknameGenerator.runtimeconfig.json
+\\fs-059\studuser$\Gr12\k.patel61\NicknameGenerator\bin\Debug\net5.0\NicknameGenerator.runtimeconfig.dev.json
+\\fs-059\studuser$\Gr12\k.patel61\NicknameGenerator\bin\Debug\net5.0\NicknameGenerator.dll
+\\fs-059\studuser$\Gr12\k.patel61\NicknameGenerator\bin\Debug\net5.0\ref\NicknameGenerator.dll
+\\fs-059\studuser$\Gr12\k.patel61\NicknameGenerator\bin\Debug\net5.0\NicknameGenerator.pdb
+\\fs-059\studuser$\Gr12\k.patel61\NicknameGenerator\obj\Debug\net5.0\NicknameGenerator.csproj.AssemblyReference.cache
+\\fs-059\studuser$\Gr12\k.patel61\NicknameGenerator\obj\Debug\net5.0\NicknameGenerator.GeneratedMSBuildEditorConfig.editorconfig
+\\fs-059\studuser$\Gr12\k.patel61\NicknameGenerator\obj\Debug\net5.0\NicknameGenerator.AssemblyInfoInputs.cache
+\\fs-059\studuser$\Gr12\k.patel61\NicknameGenerator\obj\Debug\net5.0\NicknameGenerator.AssemblyInfo.cs
+\\fs-059\studuser$\Gr12\k.patel61\NicknameGenerator\obj\Debug\net5.0\NicknameGenerator.csproj.CoreCompileInputs.cache
+\\fs-059\studuser$\Gr12\k.patel61\NicknameGenerator\obj\Debug\net5.0\NicknameGenerator.dll
+\\fs-059\studuser$\Gr12\k.patel61\NicknameGenerator\obj\Debug\net5.0\ref\NicknameGenerator.dll
+\\fs-059\studuser$\Gr12\k.patel61\NicknameGenerator\obj\Debug\net5.0\NicknameGenerator.pdb
+\\fs-059\studuser$\Gr12\k.patel61\NicknameGenerator\obj\Debug\net5.0\NicknameGenerator.genruntimeconfig.cache
